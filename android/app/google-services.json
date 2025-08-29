@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473455065533",
+    "project_id": "clarifi-89c1c",
+    "storage_bucket": "clarifi-89c1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473455065533:android:7cc3b0826678f18dbdfad4",
+        "android_client_info": {
+          "package_name": "com.optivus.clarifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473455065533-v3l9p63kp46e0n0gmng2on7itsnfmrra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optivus.clarifi",
+            "certificate_hash": "3ed40e66096daf47336e3e43f78292ae5a180158"
+          }
+        },
+        {
+          "client_id": "473455065533-6l6ji4i8i9162gp393157kktngrj9dc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9wnjkg9I4qBF2_190BO5r5_kO_dYrS7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473455065533-6l6ji4i8i9162gp393157kktngrj9dc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
